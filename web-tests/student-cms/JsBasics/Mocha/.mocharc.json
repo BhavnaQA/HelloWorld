@@ -1,8 +1,0 @@
-{
-   "reporter" : ["spec", "mochawesome"],
-   "reporter-options":[
-       "reportDir=reports",
-       "reportFilename=testreport"
-   ],
-    "spec" : "specs/*.js"
-}

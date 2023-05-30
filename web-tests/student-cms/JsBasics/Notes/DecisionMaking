@@ -1,4 +1,0 @@
-Decision Making checks condition and returns Boolean 
-    if(<condition>){
-        //code
-    }

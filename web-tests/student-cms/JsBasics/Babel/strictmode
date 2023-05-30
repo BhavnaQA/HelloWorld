@@ -1,5 +1,0 @@
-Strict mode
- will show error if variables are not declared. Use "use strict" in the file 
-
-
-to install Babel 
