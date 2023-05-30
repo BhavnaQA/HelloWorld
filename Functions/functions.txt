@@ -1,0 +1,14 @@
+Anonymous Functions : function does not have a name and value is stored in a variable
+
+let calc = function(number){
+    return number*10
+}
+
+console.log("test test test")
+console.log("test test test" )
+console.log("test test test ")
+console.log("test test test" )
+console.log("test test test ")
+
+console.log(calc(14))
+console.log(calc(2))

@@ -1,0 +1,31 @@
+JS is dynamically typed lang, variables do not require explicit declaration.
+    Example: let name = 'Bhavna'
+    let allows change in value of variables
+        let name = 'Aadi'
+
+    const is Constant which does not allow change in value of variable.
+        const name = 'Ruby'
+        const name = 'Gem' this will throw error
+
+Primitive Datatypes in JS :string, number, bigint, boolean, undefined, symbols
+null is also used but for Objects
+
+let name = 'John' #string
+let day = 25 #number
+let isSunday = true #boolean
+let undef; # undefined
+let noVal = null # null
+
+let bigInt = 900073873e8937893279827982789n #bigint
+let symbol = Symbol('sym') # Symbol
+
+
+to know a type of variable
+console.log(typeof <variable name>);
+
+Comments: 
+// For Single line
+
+/** 
+* for multiple line
+*/
