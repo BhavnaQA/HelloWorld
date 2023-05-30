@@ -1,0 +1,14 @@
+{
+  "name": "Babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "strictmode.js",
+  "scripts": {
+    "testone": "node testOne.js",
+    "testtwo": "node testTwo.js",
+    "runall" : "npm run testone && npm run testtwo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

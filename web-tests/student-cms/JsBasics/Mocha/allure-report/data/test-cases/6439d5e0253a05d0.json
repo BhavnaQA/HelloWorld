@@ -1,0 +1,37 @@
+{
+  "uid" : "6439d5e0253a05d0",
+  "name" : "First Test",
+  "fullName" : "First Test",
+  "historyId" : "6070bb2804ba3bd0b12e9a04a4580b62",
+  "time" : {
+    "start" : 1647680192532,
+    "stop" : 1647680192534,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "First Test Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6439d5e0253a05d0.json",
+  "parameterValues" : [ ]
+}

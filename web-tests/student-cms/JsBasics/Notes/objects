@@ -1,0 +1,38 @@
+Objects are variables that contain manu values and can be compared to objects in real like. Each value of an object is a 
+    key:value pairs seperated by commas
+
+    let person = {
+        name: 'John',
+        age: 20,
+        email: 'test@test.com
+    }
+
+    let name = 'John'
+    let age = 20
+
+We can access the value in the object using its key property.
+
+let person = {
+    name: 'John',
+    age: 20
+}
+
+console.log(person.name)
+
+
+we can use const person ={
+    // constant won't allow to reassign values
+}
+
+
+you can nest objects too
+
+let person = {
+    name: 'John',
+    car: {
+        make: 'honda'
+    }
+}
+
+Methods can be in objects too
+

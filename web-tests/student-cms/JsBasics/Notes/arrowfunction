@@ -1,0 +1,9 @@
+// normal way
+
+
+
+//Function Expression 
+
+let print2 = function (){
+    console.log('func2')
+}

@@ -1,0 +1,19 @@
+Babel is for backward compatibility from ES6 to non ES6 
+
+to install babel 
+    npm i @babel/core @babel/cli @babel/node @babel/preset-env
+    then create .babelrc file in the root directory of the project
+
+
+to run ./node_modules/.bin/babel newfeatures.js ---> converts .js file to older verion 
+
+./node_modules/.bin/babel newfeature.js -o old.js --> save it into old.js 
+
+
+instead to doing the above 2 commands and converting it into old file in line 8 n 10 we use 
+ ./node_modules/.bin/babel-node newfeatures.js  this is new feature of babel and in this converting to old version is done internally 
+
+
+Only I default export
+For default export no need to having the same name while importing
+for default export while importing we shouldn't specify curly braces

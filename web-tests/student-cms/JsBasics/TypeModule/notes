@@ -1,0 +1,4 @@
+just add   "type": "module" in package.json
+
+when using type module when you are importing file we should always use file with extensions ex testfile.js else error 
+will be thrown 

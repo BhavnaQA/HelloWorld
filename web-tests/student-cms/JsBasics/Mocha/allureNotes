@@ -1,0 +1,5 @@
+to install Allure npm i allure-mocha allure-commandline
+
+
+./node_modules/.bin/allure generate ./allure-results && allure open
+

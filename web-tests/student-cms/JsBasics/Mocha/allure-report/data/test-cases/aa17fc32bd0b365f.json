@@ -1,0 +1,39 @@
+{
+  "uid" : "aa17fc32bd0b365f",
+  "name" : "2nd - First Test",
+  "fullName" : "2nd - First Test",
+  "historyId" : "0499ac019aa7276fdcc0c4e634fc7e1b",
+  "time" : {
+    "start" : 1647680192537,
+    "stop" : 1647680192538,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Second Test Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa17fc32bd0b365f.json",
+  "parameterValues" : [ ]
+}
